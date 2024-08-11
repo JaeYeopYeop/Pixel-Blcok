@@ -3,4 +3,5 @@
 
 
 간단한 시연 영상 링크(https://drive.google.com/file/d/15nAIUV_ZCPUOWy0UnM2UFQDyrM8lO7aN/view?usp=drive_link)
+
 짧은 아이템 사용예시 영상 링크(https://drive.google.com/file/d/1WigoB5NScpkeyObh_ZJOxMBhJj5lw1NX/view?usp=sharing)
